@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.intuit.sdp:sdp-android:1.0.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/gradle-7.0.2/caches/transforms-3/130dd86faf1b0d7ab9fccae3ec976522/transformed/jetified-sdp-android-1.0.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/gradle-7.0.2/caches/transforms-3/130dd86faf1b0d7ab9fccae3ec976522/transformed/jetified-sdp-android-1.0.6/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Downloads/gradle-7.0.2/caches/transforms-3/130dd86faf1b0d7ab9fccae3ec976522/transformed/jetified-sdp-android-1.0.6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
