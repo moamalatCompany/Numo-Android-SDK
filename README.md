@@ -189,10 +189,7 @@ them in project.
 
 ## Authors
 
-**PaySky Company** - (https://www.paysky.io)
+**Moamalat Company** - (https://www.moamalat.net)
 
-## Sample Project
-
-**https://github.com/payskyCompany/NUMO-PayButton-SDK-android/tree/master/app**
 
 
