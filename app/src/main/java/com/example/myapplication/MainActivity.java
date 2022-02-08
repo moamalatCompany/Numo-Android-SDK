@@ -22,11 +22,11 @@ public class MainActivity extends AppCompatActivity {
 
         PayButton payButton = new PayButton(this);
 
-        payButton.setMerchantId("10098206085");        // your merchant id
-        payButton.setTerminalId("94674732");         // your terminal id
+        payButton.setMerchantId("10081014649");        // your merchant id
+        payButton.setTerminalId("99179395");         // your terminal id
         payButton.setAmount(10.0);        // the payment amount
         payButton.setCurrencyCode(434);        // use 434 for the Libyan currency [Optional]
-        payButton.setMerchantSecureHash("63336634373139362D616530392D346532642D383861372D623666333963656563623265");        // Merchant secure hash
+        payButton.setMerchantSecureHash("39636630633731362D663963322D346362642D386531662D633963303432353936373431");        // Merchant secure hash
         payButton.setTransactionReferenceNumber(AppUtils.generateRandomNumber());
         // unique transaction reference number.
         payButton.setProductionStatus(STAGINIG);        // "Use AllURLsStatus.STAGINIG for test environment,
